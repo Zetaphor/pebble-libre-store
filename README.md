@@ -1,6 +1,6 @@
-# libre-store
+# Pebble Libre Store
 
-> A Vue.js project
+An open source alternative to the official Pebble app store (which may be killed by Fitbit)
 
 ## Build Setup
 
@@ -20,5 +20,3 @@ npm run unit
 # run all tests
 npm test
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
