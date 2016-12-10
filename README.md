@@ -2,7 +2,7 @@
 
 An open source alternative to the official [Pebble app store](https://apps.getpebble.com) (which may be [killed by Fitbit](https://blog.getpebble.com/2016/12/07/fitbit/))
 
-Built with [Vue.js](vuejs.org)
+Built with [Vue.js](http://www.vuejs.org)
 
 ## Build Setup
 
