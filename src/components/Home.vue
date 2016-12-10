@@ -1,5 +1,5 @@
 <template>
-  <div id="watchfaces" class="container">
+  <div class="container">
     <div class="row">
       <div class="col-sm-10 offset-sm-1 main-content">
         <div class="row top-nav">
@@ -24,7 +24,7 @@
                 </path>
                 <path d="M82,90.6H9.4V18H0v72.6c0,5.2,4.2,9.4,9.4,9.4H82V90.6z"></path>
               </svg>
-              <span>Apps/Timeline</span>
+              <span>Apps / Timeline</span>
             </p>
           </div>
 
@@ -40,18 +40,19 @@
             </p>
           </div>
         </div>
-
-        <watchfaces v-show="showWatchfaces" class="sub-page sub-page-top-margin"></watchfaces>
-        <apps v-show="showApps" class="sub-page"></apps>
-        <search v-show="showSearch" class="sub-page"></search>
       </div>
+
+      <watchfaces v-show="showWatchfaces"></watchfaces>
+      <apps v-show="showApps"></apps>
+      <search v-show="showSearch"></search>
+    </div>
   </div>
 </template>
 
 <script>
-  import Watchfaces from './pages/Watchfaces'
-  import Apps from './pages/Apps'
-  import Search from './pages/Search'
+  import Watchfaces from './Watchfaces'
+  import Apps from './Apps'
+  import Search from './Search'
 
   export default {
     name: 'home',
@@ -95,10 +96,7 @@
 <style lang="scss" scoped>
   $pebbleMedGrey: #484848;
   $pebbleOrange: #ff4700;
-
-  #watchfaces {
-    margin-top: 2rem;
-  }
+  $pebbleWhite: #F4F3F4;
 
   .svg-icon {
     font-size: 1em;
@@ -108,13 +106,10 @@
     fill: #FFF;
   }
 
-  .main-content {
-    background-color: #F4F3F4;
+  .container {
+    margin: 2rem 0 2rem 0;
+    padding: 0;
     border-radius: 10px;
-
-    .sub-page-top-margin {
-      margin-top: 1rem;
-    }
 
     .main-title {
       color: #fff;
