@@ -5,7 +5,7 @@ An open source alternative to the official [Pebble app store](https://apps.getpe
 Built with [Vue.js](http://www.vuejs.org)
 
 ### TODO
-- [ ] Finish Watchfaces Page
+- [X] Finish Watchfaces Page
 - [X] Finish Apps Page
 - [ ] Finish Search Page
 
