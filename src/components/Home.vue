@@ -3,6 +3,7 @@
     <div class="row">
       <div class="col-xs-9 offset-xs-2">
         <div class="row top-nav">
+          <p class="current-page float-xs-right">{{ currentPage }}</p>
           <p class="main-title">pebble libre</p>
           <div v-on:click="switchPage('watchfaces')" class="col-xs-4 nav-link">
             <p class="text-xs-center" v-bind:class="{ active: showWatchfaces }">
@@ -63,6 +64,7 @@
     },
     data () {
       return {
+        currentPage: 'Watchfaces',
         showWatchfaces: true,
         showApps: false,
         showSearch: false
@@ -73,16 +75,19 @@
       switchPage (pageName) {
         switch (pageName) {
           case 'watchfaces':
+            this.currentPage = 'Watchfaces'
             this.showWatchfaces = true
             this.showApps = false
             this.showSearch = false
             break
           case 'apps':
+            this.currentPage = 'Apps / Timeline'
             this.showWatchfaces = false
             this.showApps = true
             this.showSearch = false
             break
           case 'search':
+            this.currentPage = 'Search'
             this.showWatchfaces = false
             this.showApps = false
             this.showSearch = true
@@ -116,6 +121,13 @@
       padding: 1rem 0 0 1rem;
       font-size: 2rem;
       font-family: 'CenturyGothic',sans-serif !important;
+    }
+
+    .current-page {
+      text-align: right;
+      font-size: 1.4rem;
+      text-transform: uppercase;
+      margin: 1.6rem 2rem 0 0;
     }
 
     .top-nav {
