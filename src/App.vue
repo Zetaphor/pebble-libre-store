@@ -34,6 +34,8 @@
   }
 
   body {
+    cursor: default;
     background-color: $pebbleDarkGrey !important;
+    user-select: none;
   }
 </style>

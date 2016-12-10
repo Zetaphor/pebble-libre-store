@@ -266,6 +266,7 @@
     }
 
     .app-category {
+      cursor: pointer;
       border-top: 1px solid $pebbleMedGrey;
       padding-top: 1rem;
         img {
@@ -286,6 +287,7 @@
       border: none !important;
       font-size: 16px;
       line-height: 1.3rem;
+      cursor: pointer;
 
       .card-title {
         font-size: 18px;

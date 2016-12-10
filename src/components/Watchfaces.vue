@@ -210,6 +210,7 @@
       line-height: 1.3rem;
       border-radius: 4px;
       margin-bottom: 2rem;
+      cursor: pointer;
 
       .card-title {
         font-size: 18px;
