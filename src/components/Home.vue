@@ -41,7 +41,7 @@
           </div>
         </div>
 
-        <watchfaces v-show="showWatchfaces" class="sub-page"></watchfaces>
+        <watchfaces v-show="showWatchfaces" class="sub-page sub-page-top-margin"></watchfaces>
         <apps v-show="showApps" class="sub-page"></apps>
         <search v-show="showSearch" class="sub-page"></search>
       </div>
@@ -93,6 +93,13 @@
 </script>
 
 <style lang="scss" scoped>
+  $pebbleMedGrey: #484848;
+  $pebbleOrange: #ff4700;
+
+  #watchfaces {
+    margin-top: 2rem;
+  }
+
   .svg-icon {
     font-size: 1em;
     height: 17px;
@@ -101,17 +108,11 @@
     fill: #FFF;
   }
 
-  $pebbleMedGrey: #484848;
-
-  #watchfaces {
-    margin-top: 2rem;
-  }
-
   .main-content {
     background-color: #F4F3F4;
     border-radius: 10px;
 
-    .sub-page {
+    .sub-page-top-margin {
       margin-top: 1rem;
     }
 
@@ -134,7 +135,7 @@
       p {
         margin-bottom: 10px;
         &.active {
-          border-bottom: 3px solid #ff4700;
+          border-bottom: 3px solid $pebbleOrange;
         }
       }
     }
