@@ -45,7 +45,7 @@
         <div class="row">
           <div class="col-xs-4">
             <div class="card">
-              <div class="card-block app-block">
+              <div class="card-block">
                 <img class="img-fluid float-xs-left preview-image" src="https://assets.getpebble.com/api/file/S1nCXN4uSLyO0jGGxVto/convert?cache=true&fit=crop&w=80&h=80" />
                 <p class="card-title">Example App</p>
                 <p class="card-category color-games">Games</p>
@@ -59,7 +59,7 @@
 
           <div class="col-xs-4">
             <div class="card">
-              <div class="card-block app-block">
+              <div class="card-block">
                 <img class="img-fluid float-xs-left preview-image" src="https://assets.getpebble.com/api/file/S1nCXN4uSLyO0jGGxVto/convert?cache=true&fit=crop&w=80&h=80" />
                 <p class="card-title">Example App</p>
                 <p class="card-category color-games">Games</p>
@@ -73,7 +73,7 @@
 
           <div class="col-xs-4">
             <div class="card">
-              <div class="card-block app-block">
+              <div class="card-block">
                 <img class="img-fluid float-xs-left preview-image" src="https://assets.getpebble.com/api/file/S1nCXN4uSLyO0jGGxVto/convert?cache=true&fit=crop&w=80&h=80" />
                 <p class="card-title">Example App</p>
                 <p class="card-category color-games">Games</p>
@@ -87,7 +87,7 @@
 
           <div class="col-xs-4">
             <div class="card">
-              <div class="card-block app-block">
+              <div class="card-block">
                 <img class="img-fluid float-xs-left preview-image" src="https://assets.getpebble.com/api/file/S1nCXN4uSLyO0jGGxVto/convert?cache=true&fit=crop&w=80&h=80" />
                 <p class="card-title">Example App</p>
                 <p class="card-category color-games">Games</p>
@@ -101,7 +101,7 @@
 
           <div class="col-xs-4">
             <div class="card">
-              <div class="card-block app-block">
+              <div class="card-block">
                 <img class="img-fluid float-xs-left preview-image" src="https://assets.getpebble.com/api/file/S1nCXN4uSLyO0jGGxVto/convert?cache=true&fit=crop&w=80&h=80" />
                 <p class="card-title">Example App</p>
                 <p class="card-category color-games">Games</p>
@@ -115,7 +115,7 @@
 
           <div class="col-xs-4">
             <div class="card">
-              <div class="card-block app-block">
+              <div class="card-block">
                 <img class="img-fluid float-xs-left preview-image" src="https://assets.getpebble.com/api/file/S1nCXN4uSLyO0jGGxVto/convert?cache=true&fit=crop&w=80&h=80" />
                 <p class="card-title">Example App</p>
                 <p class="card-category color-games">Games</p>
@@ -137,7 +137,7 @@
         <div class="row">
           <div class="col-xs-4">
             <div class="card">
-              <div class="card-block app-block">
+              <div class="card-block">
                 <img class="img-fluid float-xs-left preview-image" src="https://assets.getpebble.com/api/file/S1nCXN4uSLyO0jGGxVto/convert?cache=true&fit=crop&w=80&h=80" />
                 <p class="card-title">Example App</p>
                 <p class="card-category color-games">Games</p>
@@ -151,7 +151,7 @@
 
           <div class="col-xs-4">
             <div class="card">
-              <div class="card-block app-block">
+              <div class="card-block">
                 <img class="img-fluid float-xs-left preview-image" src="https://assets.getpebble.com/api/file/S1nCXN4uSLyO0jGGxVto/convert?cache=true&fit=crop&w=80&h=80" />
                 <p class="card-title">Example App</p>
                 <p class="card-category color-games">Games</p>
@@ -165,7 +165,7 @@
 
           <div class="col-xs-4">
             <div class="card">
-              <div class="card-block app-block">
+              <div class="card-block">
                 <img class="img-fluid float-xs-left preview-image" src="https://assets.getpebble.com/api/file/S1nCXN4uSLyO0jGGxVto/convert?cache=true&fit=crop&w=80&h=80" />
                 <p class="card-title">Example App</p>
                 <p class="card-category color-games">Games</p>
@@ -179,7 +179,7 @@
 
           <div class="col-xs-4">
             <div class="card">
-              <div class="card-block app-block">
+              <div class="card-block">
                 <img class="img-fluid float-xs-left preview-image" src="https://assets.getpebble.com/api/file/S1nCXN4uSLyO0jGGxVto/convert?cache=true&fit=crop&w=80&h=80" />
                 <p class="card-title">Example App</p>
                 <p class="card-category color-games">Games</p>
@@ -193,7 +193,7 @@
 
           <div class="col-xs-4">
             <div class="card">
-              <div class="card-block app-block">
+              <div class="card-block">
                 <img class="img-fluid float-xs-left preview-image" src="https://assets.getpebble.com/api/file/S1nCXN4uSLyO0jGGxVto/convert?cache=true&fit=crop&w=80&h=80" />
                 <p class="card-title">Example App</p>
                 <p class="card-category color-games">Games</p>
@@ -207,7 +207,7 @@
 
           <div class="col-xs-4">
             <div class="card">
-              <div class="card-block app-block">
+              <div class="card-block">
                 <img class="img-fluid float-xs-left preview-image" src="https://assets.getpebble.com/api/file/S1nCXN4uSLyO0jGGxVto/convert?cache=true&fit=crop&w=80&h=80" />
                 <p class="card-title">Example App</p>
                 <p class="card-category color-games">Games</p>
@@ -287,13 +287,25 @@
       font-size: 16px;
       line-height: 1.3rem;
 
-
       .card-title {
         font-size: 18px;
         white-space: nowrap;
         text-overflow: ellipsis;
         overflow: hidden;
-        padding-left: 11px;
+        padding-left: 11px !important;
+      }
+
+      .card-block {
+        padding: 1rem;
+        img {
+          width: 64px;
+          height: auto;
+        }
+
+        p {
+          margin: 0;
+          padding-left: 74px;
+        }
       }
     }
 
@@ -304,23 +316,6 @@
       color: $pebbleOrange;
       text-transform: uppercase;
       font-size: 14px;
-    }
-
-    .collection-block {
-      padding-left: 1rem;
-    }
-
-    .app-block {
-      padding: 1rem;
-      img {
-        width: 64px;
-        height: auto;
-      }
-
-      p {
-        margin: 0;
-        padding-left: 74px;
-      }
     }
   }
 </style>
