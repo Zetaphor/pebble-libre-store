@@ -1,10 +1,10 @@
 <template>
   <div class="container">
     <div class="row">
-      <div class="col-sm-10 offset-sm-1 main-content">
+      <div class="col-xs-9 offset-xs-2">
         <div class="row top-nav">
           <p class="main-title">pebble libre</p>
-          <div v-on:click="switchPage('watchfaces')" class="col-sm-4 nav-link">
+          <div v-on:click="switchPage('watchfaces')" class="col-xs-4 nav-link">
             <p class="text-xs-center" v-bind:class="{ active: showWatchfaces }">
               <svg class="svg-icon" viewBox="0 0 100 100">
                 <path d="M50,10.1c22.1,0,39.9,17.9,39.9,39.9c0,22.1-17.9,39.9-39.9,39.9S10.1,72.1,10.1,50
@@ -16,7 +16,7 @@
             </p>
           </div>
 
-          <div v-on:click="switchPage('apps')" class="col-sm-4 nav-link">
+          <div v-on:click="switchPage('apps')" class="col-xs-4 nav-link">
             <p class="text-xs-center" v-bind:class="{ active: showApps }">
               <svg class="svg-icon" viewBox="0 0 100 100">
                 <path d="M90.6,9.4V73H27V9.4H90.6 M90.6,0H27c-5.2,0-9.4,4.2-9.4,9.4V73c0,5.2,4.2,9.4,9.4,9.4h63.7
@@ -28,7 +28,7 @@
             </p>
           </div>
 
-          <div v-on:click="switchPage('search')" class="col-sm-4 nav-link">
+          <div v-on:click="switchPage('search')" class="col-xs-4 nav-link">
             <p class="text-xs-center" v-bind:class="{ active: showSearch }">
               <svg class="svg-icon" viewBox="0 0 100 100">
                 <path d="M99.2,93.8L60.1,54.7c4.8-5.8,7.7-13.2,7.7-21.3C67.8,14.9,52.8,0,34.4,0C15.9,0,1,14.9,1,33.4
