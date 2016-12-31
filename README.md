@@ -1,3 +1,7 @@
+# **Notice**
+This repository is here for posterity. Future development will be on the [Rebble Store](http://store.rebble.io/) by the [Rebble team](http://rebble.io/) in the [rebble-store](http://github.com/pebble-dev/rebble-store) repo.
+
+
 # Pebble Libre Store
 
 An open source alternative to the official [Pebble app store](https://apps.getpebble.com) (which may be [killed by Fitbit](https://blog.getpebble.com/2016/12/07/fitbit/))
