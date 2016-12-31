@@ -1,5 +1,5 @@
 # **Notice**
-This repository is here for posterity. Future development will be on the [Rebble Store](http://store.rebble.io/) by the [Rebble team](http://rebble.io/) in the [rebble-store](http://github.com/pebble-dev/rebble-store) repo.
+This repository is here for posterity. Future development will be on the [app store](http://store.rebble.io/) by the [Rebble team](http://rebble.io/). The repo can be found [here](http://github.com/pebble-dev/rebble-store).
 
 
 # Pebble Libre Store
